@@ -1,0 +1,27 @@
+{
+  "name": "node_fabric",
+  "version": "1.0.0",
+  "description": "a node module which makes RESTful services event driven",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "engines": {
+    "npm": ">=18.17.0",
+    "node": ">=16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subhodeepdebroy/node-fabric.git"
+  },
+  "author": "Subhodeep Debroy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/subhodeepdebroy/node-fabric/issues"
+  },
+  "homepage": "https://github.com/subhodeepdebroy/node-fabric#readme",
+  "devDependencies": {
+    "@tsconfig/node18": "^18.2.0",
+    "typescript": "^5.1.6"
+  }
+}
